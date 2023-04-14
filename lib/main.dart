@@ -28,8 +28,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       debugShowCheckedModeBanner: false,
       routes: {
-        "/":(context) => const BarNavigation(),
-        //"/": (context) => const Sign_in(),
+        "/": (context) => const Sign_in(),
         "/HomeP":(context) => HomePage(title: "Meal"),
         "/Favorite":(context) => const Favorites(),
         "/Search":(context) => Search(),
