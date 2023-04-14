@@ -1,0 +1,51 @@
+[
+  {
+    "ID": "1",
+    "name": "Domates",
+    "urlImg": "https://im.haberturk.com/2022/03/24/ver1673441624/3386199_e9bf42dbd9dae80b4c03c2a616db2da1.jpg",
+    "calorie": "110 gr"
+  },
+  {
+    "ID": "2",
+    "name": "Biber",
+    "urlImg": "https://im.haberturk.com/2021/12/02/ver1638456394/3271167_620x410.jpg",
+    "calorie": "39,9"
+  },
+  {
+    "ID": "3",
+    "name": "Pirzola",
+    "urlImg": "https://www.diyetasistan.com/files/besinler/kuzu-pirzola-cig.jpg",
+    "calorie": "351,1"
+  },
+  {
+    "ID": "4",
+    "name": "Sucuk",
+    "urlImg": "https://im.haberturk.com/2019/10/16/ver1571213056/ev-yapimi-sucuk-tarifi_2531360_810x458.jpg",
+    "calorie": "50"
+  },
+  {
+    "ID": "5",
+    "name": "Süt",
+    "urlImg": "https://im.haberturk.com/2019/06/07/ver1559912357/2486029_810x458.jpg",
+    "calorie": "42,3"
+  },
+  {
+    "ID": "6",
+    "name": "Krema",
+    "urlImg": "https://im.haberturk.com/2020/11/26/ver1606356544/2882318_810x458.jpg",
+    "calorie": "195,5"
+  },
+  {
+    "ID": "7",
+    "name": "Patlıcan",
+    "urlImg": "https://im.haberturk.com/2023/02/28/ver1677595081/3569666_810x458.jpg",
+    "calorie": "24,9"
+  },
+  {
+    "ID": "8",
+    "name": "Elma",
+    "urlImg": "https://im.haberturk.com/2021/10/09/ver1633786350/3216586_1200x627.jpg",
+    "calorie": "52,1"
+  }
+
+]

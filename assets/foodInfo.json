@@ -1,0 +1,59 @@
+[
+    {
+      "pID": "1",
+      "fID": "Soap",
+      "name": "Mercimek",
+      "urlImg": "https://im.haberturk.com/2020/10/27/ver1603801237/2849815_1200x627.jpg",
+      "calorie": "55,9"
+    },
+    {
+      "pID": "2",
+      "fID": "Soap",
+      "name": "Tarhana",
+      "urlImg": "https://im.haberturk.com/2022/01/28/ver1673276392/3328891_810x458.jpg",
+      "calorie": "121"
+    },
+    {
+      "pID": "3",
+      "fID": "Savoury Appetizer",
+      "name": "Paçanga",
+      "urlImg": "https://i4.hurimg.com/i/hurriyet/75/750x0/5bfd15447af50723000cbe1d.jpg",
+      "calorie": "2546.4"
+    },
+    {
+      "pID": "4",
+      "fID": "Savoury Appetizer",
+      "name": "İçli Köfte",
+      "urlImg": "https://i4.hurimg.com/i/hurriyet/75/750x0/5bfd15447af50723000cbe1f.jpg",
+      "calorie": "345"
+    },
+    {
+      "pID": "5",
+      "fID": "Main Dish",
+      "name": "İskender",
+      "urlImg": "https://im.haberturk.com/2020/11/21/ver1605969860/2877487_810x458.jpg",
+      "calorie": "755"
+    },
+    {
+      "pID": "6",
+      "fID": "Main Dish",
+      "name": "Adana",
+      "urlImg": "https://im.haberturk.com/2020/11/04/ver1604443406/2858225_810x458.jpg",
+      "calorie": "215"
+    },
+    {
+      "pID": "7",
+      "fID": "Dessert",
+      "name": "Baklava",
+      "urlImg": "https://im.haberturk.com/2023/04/02/3579252_7bdbd2578b94ec1fc819c51676793a26_1366x1366.jpg",
+      "calorie": "1438"
+    },
+    {
+      "pID": "8",
+      "fID": "Dessert",
+      "name": "Sütlaç",
+      "urlImg": "https://im.haberturk.com/2020/11/19/ver1605793672/2875304_810x458.jpg",
+      "calorie": "111,1"
+    }
+
+]
